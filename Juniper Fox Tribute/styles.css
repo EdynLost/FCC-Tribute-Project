@@ -1,0 +1,31 @@
+#image {
+    max-width: 100%;
+    height: auto;
+    text-align: center;
+  }
+  img {
+    display: block;
+    padding-bottom: 10px;
+  }
+  h1, h3 {
+    text-align: center;
+  }
+  h1 {
+    font-size: 80px;
+    margin: 0;
+  }
+  h3 {
+    font-size: 30px;
+  }
+  div {
+    text-align: center;
+  }
+  body {
+    background: lightgray;
+  }
+  #img-caption {
+    font-weight: bold;
+  }
+  footer {
+    text-align: center;
+  }
